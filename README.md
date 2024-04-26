@@ -1,0 +1,1 @@
+a user friendly python program to scraping a well known Egyptian football website called YALLAKORA the program asked the user for the start date and end date to search for all matches between these dates then scraping all desired info and store it in an excel sheet.
